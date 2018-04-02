@@ -1,0 +1,19 @@
+---------- Variables ---------- 
+Var0: a aa aaa aaaa 
+Var1: b bb bbb bbbb 
+Var2:     
+Var3:     
+Var4:     
+Var5:     
+Var6:     
+----- End of Variables ----- 
+
+---------- Equations ---------- 
+Eqn0: equationssssss1 
+Eqn1: equationssssss2 
+Eqn2:  
+Eqn3:  
+Eqn4:  
+Eqn5:  
+----- End of Equations -----
+End Input
